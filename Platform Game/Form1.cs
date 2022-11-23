@@ -149,7 +149,7 @@ namespace Platform_Game
             }
 
             //if (score != 20)
-            //{
+            //{asdf
             //    txtScore.Text = "Score: " + score + Environment.NewLine + "Collect all the Coins";
             //}
         }
